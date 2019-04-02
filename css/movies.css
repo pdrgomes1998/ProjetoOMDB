@@ -1,0 +1,14 @@
+#teste img, #movie img{
+    width: 100%;
+}
+
+@media(min-width:960px) {
+    #teste .col-md-3 .well{
+        height: 500px;
+    }
+
+    #teste .col-md-3 img{
+        height: 400px;
+    }
+}
+    
